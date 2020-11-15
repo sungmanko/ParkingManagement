@@ -1,0 +1,10 @@
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.frmParkingManagement.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\ParkingManagement\obj\Debug\ParkingManagement.pdb
